@@ -2,8 +2,7 @@
 title: Atomic Structure
 author: Denote
 date: 2020-08-08 11:33:00 +0800
-categories: [Chemistry]
-tags: [Theory]
+categories: [Chemistryi, Theory]
 math: true
 ---
 
