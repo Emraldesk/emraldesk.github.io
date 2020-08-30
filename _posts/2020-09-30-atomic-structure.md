@@ -7,6 +7,7 @@ tags: [Theory]
 math:true
 ---
 
+bhak ahaha
+
 ## CRT Experiment
-abey o
-$x^2$
+lol
