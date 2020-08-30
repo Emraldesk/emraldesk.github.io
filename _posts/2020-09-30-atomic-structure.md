@@ -1,19 +1,17 @@
 ---
 title: Atomic Structure
 author: Denote
-date: 2020-08-08 11:33:00 +0800
+date: 2020-09-30 11:33:00 +0800
 categories: [Chemistry, Theory]
 math: true
 ---
 
-## Mathematics
+## CRT Experiment
+In this experiment a glass tube was filled with a very low-pressured gas and its ends were cathode and anode, when sufficiently high volatages were applied, it was observed that the phosphorecent coating at the anode-end of glass tubelit up. The behaviour of cathode ray particles resembled those of negatively charged particles called electrones.
 
-The mathematics powered by [**MathJax**](https://www.mathjax.org/):
-
-$$ \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6} $$
-
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
-
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+### Thomson Model
+J.J. Thomson proposed plum-pudding model of atom. 
 
 
+## Gold Foil Experiment
+In this experiment alpha-particles were bombarded at a very thin sheet of gold foil. Most of the particles directly flew through the gold foil, some where deflected by a small angle and very few completely bounced back.
